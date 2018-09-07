@@ -1,4 +1,4 @@
-# sentence-generation-tinkoff-quals
+# Sentence generation for Tinkoff quals
 Repository for sentence generation project. 
 
 
