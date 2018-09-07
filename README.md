@@ -4,7 +4,7 @@ Repository for sentence generation project.
 
 ### Usage: 
 
-##### training.py
+##### [training.py](training.py)
 
 ```
 Fit the model
@@ -20,7 +20,7 @@ arguments:
 
 ```
 
-##### generation.py
+##### [generation.py](generation.py)
 
 ```
 Generate text with given token amount using pre-trained model.
